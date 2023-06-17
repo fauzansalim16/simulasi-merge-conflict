@@ -1,2 +1,3 @@
 ini adalah contoh merge-conflict di git
 code baru
+ini code warga2
