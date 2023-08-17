@@ -1,3 +1,4 @@
 ini adalah contoh merge-conflict di git
 code baru
 ini code warga2
+ini bos yang bikin ges soalnya cabang main
